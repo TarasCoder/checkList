@@ -2,3 +2,25 @@ body {
    background-color:darkslategray;
    color: darkorange;
 }
+.wrapper{
+   display: block;
+   width: 300px;
+   margin: 150px auto;
+}
+.list {
+   text-transform: uppercase;
+   font-size: 18px;
+}
+.inpt, .btn {
+   height: 30px;
+   width: 200px;
+   border-radius: 30px;
+   padding: 0 15px;
+   outline: none;
+   font-size: 16px;
+   margin-bottom: 5px;
+}
+.btn {
+   height: 34px;
+   width: 234px;
+}
